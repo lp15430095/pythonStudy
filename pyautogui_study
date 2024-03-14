@@ -1,0 +1,10 @@
+import pyautogui
+import random
+
+# while True:
+for i in range(100):
+    a = random.randint(0, 1024)
+    b = random.randint(0, 1024)
+    pyautogui.moveTo(a,b,duration=1)
+    # if a==100:
+        # break
