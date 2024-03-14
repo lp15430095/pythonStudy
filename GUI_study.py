@@ -41,6 +41,7 @@ separator=ttk.Separator(root,orient='horizontal')
 separator.place(x=1636/2,y=204,width=400,anchor=tk.CENTER)
 separator2=ttk.Separator(root,orient='horizontal')
 separator2.place(x=1636/2,y=208,width=400,anchor=tk.CENTER)
+HHHHH
 
 
 #日期
